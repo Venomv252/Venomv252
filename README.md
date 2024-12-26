@@ -25,13 +25,6 @@
 
 ---
 
-## 📂 Projects
-### 🔗 [FieldMate](https://github.com/AryanRaj7/FieldMate)
-A user-friendly website catering to farmers with features like:
-- Soil pH Maintenance
-- Fertilizer Suggestions
-- Crop Suitability Analysis
-
 ### 🌍 [RideShare](https://github.com/AryanRaj7/RideShare)
 A web platform connecting car owners for route-based carpooling.
 
