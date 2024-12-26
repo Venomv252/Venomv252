@@ -22,12 +22,6 @@
 - **Programming Languages**: Python, HTML, CSS, JavaScript  
 - **Web Development**: Frontend and Backend Development  
 - **Data Analytics**: Data visualization, statistical modeling, and predictions.
-
----
-
-### 🌍 [RideShare](https://github.com/AryanRaj7/RideShare)
-A web platform connecting car owners for route-based carpooling.
-
 ---
 
 ## 📫 Contact Me
