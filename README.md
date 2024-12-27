@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/aryanraj7/)
 [![Email](https://img.shields.io/badge/Email-aryanraj9931614200%40gmail.com-red)](mailto:aryanraj9931614200@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AryanRaj7-black)](https://github.com/aryanraj7)
+[![GitHub](https://img.shields.io/badge/GitHub-Venomv252-black)](https://github.com/Venomv252)
 
 ## 🎓 About Me
 - **College**: IIT Patna  
